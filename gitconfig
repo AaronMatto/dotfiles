@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mattoaaron@gmail.com
+	name = Aaron Matto
